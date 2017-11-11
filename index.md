@@ -10,9 +10,23 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# [](#header-1)Header 1
+# [](#header-1)Publications
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+*   Statistical Morphological Analyzer for Hindi - IJCNLP, 2013
+    **DK Malladi**, P Mannem
+
+*   Context Based Statistical Morphological Analyzer and Its Effect On Hindi Dependency Parsing – SPMRL, EMNLP, 2013
+    **DK Malladi**, P Mannem
+    
+*   Ensembling Various Dependency Parsers: Adopting Turbo Parser for Indian Languages - MTPIL, COLING, 2012
+    Puneeth Kukkadapu, **DK Malladi**, Aswarth Dara
+    
+*   Improvised and Adaptable Statistical Morph Analyzer (SMA++)
+    S Srirampur, **DK Malladi**, R Mamidi
+    
+*   A Novel Approach Towards Building a Portable NLIDB System Using the Computational Paninian Grammar Framework  - IALP, 2012
+    Abhijeet Gupta, Arjun Akula, **Deepak Malladi**, Puneeth Kukkadapu, Vinay Ainavolu and Rajeev Sangal 
+
 
 ## [](#header-2)Header 2
 
