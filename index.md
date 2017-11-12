@@ -2,13 +2,15 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+I try to address the "problem I face" with technology. 
 
-[Link to another page](another-page).
+I believe in the philosophy - "Change is the only thing thats constant". I love to build systems which are flexible and can easily scale.
 
-There should be whitespace between paragraphs.
+In the current role at iB Hubs, I am responsible of the entire backend (server-side) for the projects we undertake. I communicate with other stakeholders and see what best fits in for a particular application with available resources in hand and design/implement accordingly. I also ensure that the effort we put is reusable and plan things accordingly. 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+In my previous stint at Veda Semantics, I primarily worked on Machine Learning and Data Science (to an extent). I built basic frameworks for Topic-Theme Identification and Intent Analysis.
+
+I am an avid reader of tech blogs and follow current trends in tech domain. I also love reading books (mostly related to personal management/fiction) and travelling on bike (my last expedition was to Leh-Ladakh).
 
 # [](#header-1)Publications
 
